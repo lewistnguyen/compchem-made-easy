@@ -1,0 +1,6 @@
+FORTRAN_SETUP.md
+Makefile
+.vscode/
+build/
+src/
+tests/
